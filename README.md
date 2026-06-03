@@ -92,7 +92,8 @@ $ns run
 
 
 ## 📊 MODEL OUTPUT
-<img width="845" height="585" alt="image" src="https://github.com/user-attachments/assets/567783ea-7258-42cd-94cb-df89f90ad184" />
+
+<img width="835" height="592" alt="image" src="https://github.com/user-attachments/assets/29b90db8-c23b-4e36-95cf-2fe8fcbb49a8" />
 
 
 ## 📝 MARK ALLOCATION
