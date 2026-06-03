@@ -33,6 +33,7 @@ To write an NS2 program to observe the performance of the network with Carrier S
 20. Stop the program.
 ## PROGRAM:
 
+```tcl
 #Lan simulation – mac.tcl setns [new Simulator] #define color for data flows
 $ns color 1 blue
 $ns color 2 red
@@ -91,7 +92,7 @@ $ns run
 
 
 ## 📊 MODEL OUTPUT
-<img src="C:\Users\Latha\OneDrive\Pictures\Screenshots\code block 2.png" alt="Code block 2" width="200"/>
+<img width="845" height="585" alt="image" src="https://github.com/user-attachments/assets/567783ea-7258-42cd-94cb-df89f90ad184" />
 
 
 ## 📝 MARK ALLOCATION
